@@ -7,10 +7,11 @@ O teste proposto mostra o poder do DBUnit onde ele proporciona um maior conforto
 
 Requisitos
 
-- 1 - Maven configurado na ide eclipse (update project..)
-- 2 - Ter criado um banco de dados chamado "dbunit_banco" ou outro qualquer.
-- 3 - Ter importado o arquivo "dbunit_banco.sql" que está na raiz deste projeto para o banco de dados informado.
-- 4 - Ter configurado o metodo getConnection() da classe CalculadoraSalarioTest_DB e CalculadoraSalario, informando os dados de conexão com o msyql(banco, usuário, senha).
+- 1 - Ter importado este projeto para o eclipse
+- 2 - Maven configurado no eclipse (update project..)
+- 3 - Ter criado um banco de dados chamado "dbunit_banco" ou outro qualquer.
+- 4 - Ter importado o arquivo "dbunit_banco.sql" que está na raiz deste projeto para o banco de dados informado.
+- 5 - Ter configurado o metodo getConnection() da classe CalculadoraSalarioTest_DB e CalculadoraSalario, informando os dados de conexão com o msyql(banco, usuário, senha).
 
 
 
