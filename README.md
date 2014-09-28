@@ -13,5 +13,6 @@ Requisitos
 - 4 - Ter importado o arquivo "dbunit_banco.sql" que está na raiz deste projeto para o banco de dados informado.
 - 5 - Ter configurado o metodo getConnection() da classe CalculadoraSalarioTest_DB e CalculadoraSalario, informando os dados de conexão com o msyql(banco, usuário, senha).
 
+Feito isso, RUN TEST!!
 
 
