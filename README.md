@@ -1,4 +1,4 @@
-DBUnit_Maven_Eclipse
+DBUnit com Maven e Eclipse
 ====================
 
 Exemplo simples de como utilizar o DBUnit com maven e eclipse, exemplificado com um teste simples.
