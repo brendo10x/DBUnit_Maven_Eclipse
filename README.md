@@ -3,7 +3,7 @@ DBUnit com Maven e Eclipse
 
 Exemplo simples de como utilizar o DBUnit com maven e eclipse, exemplificado com um teste simples.
 
-O teste proposto mostra o poder do DBUnit onde ele proporciona um maior conforto na hora de testar registros no banco de dados, neste exemplo o banco de dados contém somente 1 registro em produção, quando o teste é executado o DBUnit carrega os dados em XML(dbunitData.xml) para o banco de dados os dados necessário para que o teste ocorra, logo neste momento contém 2 registros no banco, depois da operação testada com os dados carregados, os dados são apagados automaticamente do banco voltando agora com 1 registro em produção, então veja a vantagem do DBUnit proporciona, eliminando a contaminação de registros de teste e o esforço do programador de excluir e inserir dados, mantendo assim o estado atual do banco de dados, e automatizando os testes.
+O teste proposto mostra o poder do DBUnit onde ele proporciona um maior conforto na hora de testar registros no banco de dados, neste exemplo o banco de dados contém somente 1 registro em produção, quando o teste é executado o DBUnit carrega os dados em XML(dbunitData.xml) para o banco de dados os dados necessário para que o teste ocorra, logo neste momento contém 2 registros no banco, depois da operação testada com os dados carregados, os dados são apagados automaticamente do banco voltando agora com 1 registro em produção, então veja a vantagem do DBUnit proporciona, eliminando a contaminação de registros de teste e o esforço do programador de excluir e inserir dados para teste, mantendo assim o estado atual do banco de dados, e automatizando os testes.
 
 Requisitos
 
